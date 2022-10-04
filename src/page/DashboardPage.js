@@ -15,7 +15,7 @@ const DashboardPage = () => {
         <aside>
           <Sidebar />
         </aside>
-        <main className="h-screen bg-violet-100 pt-6 px-4 w-full">
+        <main className="h-full bg-violet-100 pt-6 px-4 w-full">
           <Card />
           <div className="bg-white p-5 rounded-md mt-5">
             <div className="mb-5 flex flex-row">
